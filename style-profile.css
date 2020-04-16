@@ -210,7 +210,7 @@ body {
   position: relative;
 }
 .name h1{
-  font-size: 60px;
+  font-size: 3vw;
   line-height: 100px;
   color: #064152;
 }
@@ -229,7 +229,7 @@ body {
 }
 
 .name__english{
-  font-size: 30px;
+  font-size: 3vw;
   font-weight: bold;
   line-height: 100px;
   margin-left: 50px;
@@ -240,7 +240,7 @@ body {
   width: 100%;
   padding:30px 30px 30px 110px;
   color: #064152;
-  font-size: 22px;
+  font-size: 1.5vw;
   position: relative;
 }
 
@@ -283,7 +283,7 @@ body {
 .skills__language{
   font-family: 'Anton', sans-serif;;
   padding-top: 30px;
-  font-size: 30px;
+  font-size: 2vw;
   padding-left: 110px;
 }
 
@@ -293,3 +293,17 @@ body {
   height: 30%;
   background-color: rgb(43,43,43);
 }
+
+/* @media screen and (max-width:480px) { 
+  .contents__left::after{
+    content: '';
+    display: none;
+  }
+  
+  .contents__left::before{
+    content: '';
+    display: none;
+  }
+  
+
+} */
