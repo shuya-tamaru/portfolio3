@@ -160,7 +160,7 @@ body {
 
 
 
-@media screen and (min-width:480px) and ( max-width:1024px) { 
+@media( max-width:1000px) { 
   .content__box__title{
     font-size: 50px;
   }
@@ -169,7 +169,7 @@ body {
   }
 }
 
-@media screen and (max-width: 480px) {
+@media(max-width: 520px) {
   .content__box__title{
     font-size: 40px;
     font-family: sans-serif;
@@ -181,8 +181,11 @@ body {
   .home{
     color:  gray;
   }
-  .home_btn .btn{
+  .home_btn {
     width: 50px;
+  }
+  .btn{
+    width: 90px;
   }
 }
 
