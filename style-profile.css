@@ -353,6 +353,16 @@ body {
     height: 40px;
   }
 
+  .name__english{
+    margin-left: 20px;
+  }
+
+  .github{
+    margin: 0 5px;
+    background-color:#24292E;
+  
+  }
+
 }
 
 @media(max-width: 520px) {
@@ -411,7 +421,7 @@ body {
 
   .information{
     width: 90%;
-    height: 90%;
+    height: 100%;
     position: absolute;
     top:20px;
     left:0px;
@@ -419,7 +429,7 @@ body {
   }
 
   .name{
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 30px;
   }
 
@@ -434,8 +444,35 @@ body {
     width: 100%;
     padding:40px 30px 30px 30px;
     color: #064152;
-    font-size: 1.5vw;
+    font-size: 3.5vw;
+  }
+
+  .name__title{
+    font-size: 13px;
+    width: 40px;
+    height: 20px;
+    line-height: 20px;
+  }
+
+  .text__info{
+    font-size: 13px;
+    width: 40px;
+    height: 20px;
+    line-height: 20px;
+  }
+
+  .skills__title{
+    font-size: 13px;
+    width: 40px;
+    height: 20px;
+    line-height: 20px;
   }
 
 
+}
+
+@media(max-width: 350px) {
+  .information{
+    height: 130%;
+  }
 }
