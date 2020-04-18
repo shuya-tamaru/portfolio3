@@ -346,5 +346,19 @@ body {
   .prev__box{
     width: 350px;
   }
+  .header  ul{
+    margin-right: 5px;
+    justify-content: flex-end;
+  }
+  .home__btn{
+    margin-left: 5px;
+    text-align: left;
+  }
+  .home{
+    text-align: center;
+  }
+  .contents-top{
+    font-size: 30px;
+  }
 }
 
