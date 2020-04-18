@@ -158,23 +158,23 @@ body {
   background-color: #60F768;
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 480px) {
   .content__box__title{
-    font-size: 10px;
+    font-size: 30px;
+  }
+  .content__box__name{
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width:480px) and ( max-width:1024px) { 
+  .content__box__title{
+    font-size: 50px;
   }
   .content__box__name{
     font-size: 30px;
   }
 }
-
-/* @media screen and (min-width:520px) and ( max-width:1024px) { 
-  .content__box__title{
-    font-size: 70px;
-  }
-  .content__box__name{
-    font-size: 40px;
-  }
-} */
 
 
 
