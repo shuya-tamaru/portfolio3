@@ -385,17 +385,17 @@ body {
     width: 30px;
     height: 30px;
   }
-  
+
   .contents__left{
 
   }
 
   .information{
-    width: 320px;
-    height: 80%;
+    width: 90%;
+    height: 120%;
     position: absolute;
-    top:200px;
-    left:-100px;
+    top:20px;
+    left:0px;
     border-radius:0 50px 0 50px ;
   }
 }
