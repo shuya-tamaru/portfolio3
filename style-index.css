@@ -172,6 +172,8 @@ body {
 @media(max-width: 520px) {
   .content__box__title{
     font-size: 40px;
+    font-family: 'Righteous', cursive;
+    font-family: 'Russo One', sans-serif;
   }
   .content__box__name{
     font-size: 20px;
@@ -185,11 +187,11 @@ body {
 
   }
   .home__btn {
-    font-size: 12px;
+    font-size: 10px;
   }
   .btn{
     width: 70px;
-    font-size: 12px;
+    font-size: 10px;
   }
   .link{
     font-size: 30px;
