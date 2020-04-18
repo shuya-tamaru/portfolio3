@@ -160,7 +160,7 @@ body {
 
 @media screen and (max-width: 480px) {
   .content__box__title{
-    font-size: 40px;
+    font-size: 30px;
   }
   .content__box__name{
     font-size: 20px;
