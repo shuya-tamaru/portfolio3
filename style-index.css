@@ -158,20 +158,20 @@ body {
   background-color: #60F768;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
   .content__box__title{
-    font-size: 30px;
-    color: #24292E;
+    font-size: 40px;
+    font-family: sans-serif;
   }
   .content__box__name{
     font-size: 20px;
   }
   .home{
-    color:  #24292E;
+    color:  gray;
   }
 }
 
-@media screen and (min-width:480px) and ( max-width:1024px) { 
+@media screen and (min-width:500px) and ( max-width:1024px) { 
   .content__box__title{
     font-size: 50px;
   }
