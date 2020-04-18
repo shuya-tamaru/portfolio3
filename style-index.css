@@ -161,6 +161,7 @@ body {
 @media screen and (max-width: 480px) {
   .content__box__title{
     font-size: 30px;
+    color: #24292E;
   }
   .content__box__name{
     font-size: 20px;
