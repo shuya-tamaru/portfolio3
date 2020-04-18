@@ -167,14 +167,14 @@ body {
   }
 }
 
-@media screen and (min-width:520px) and ( max-width:1024px) { 
+/* @media screen and (min-width:520px) and ( max-width:1024px) { 
   .content__box__title{
     font-size: 70px;
   }
   .content__box__name{
     font-size: 40px;
   }
-}
+} */
 
 
 
