@@ -12,8 +12,14 @@ $(window).on('load', ()=> {
     var exit_name = "#exit"+id
 
     $('.preview'+id).fadeIn();
+    $('body').css({
+     'overflow': 'hidden'
+    })
     $(exit_name).on("click",() => {
       $(exit_name).closest(".preview").fadeOut()
+      $('body').css({
+        'overflow': 'scroll'
+       })
     });
   })
 })
