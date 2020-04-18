@@ -100,7 +100,7 @@ body {
 
 
 .content__box{
-  width: 70%;
+  width: 950px;
   height: 80%;
   margin: auto;
   border:2px solid #ad2332 ;
@@ -154,6 +154,7 @@ body {
   float:right;
   font-size: 30px;
   margin-right: 20px;
+  margin-top:5px ;
   font-family: 'Gotu', sans-serif;
 }
 
@@ -161,4 +162,136 @@ body {
   color:#227D51;
 }
 
+
+@media( max-width:1000px) { 
+  .content__title{
+    padding: 20px 0 20px 20px;
+    margin-left:0px;
+    text-align: center;
+  }
+  .content__box{
+    width: 80%;
+  }
+
+
+
+
+  .content__box__title{
+    width: 90%;
+    height: 200px;
+    background-color: #A28C37;
+    background-image: url("https://www.transparenttextures.com/patterns/escheresque.png");
+    margin: auto;
+    margin-top:10px ;
+  }
+  
+  .content__box__title a{
+    display: inline-block;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    position: relative;
+
+  }
+  
+  .content__box__img{
+    text-align: left;
+    width: 35%;
+  }
+  
+  .content__box__img img{
+    min-width:200px; 
+    min-height:200px;
+  }
+  
+  
+  .date{
+    color: #fff;
+    margin: 10px;
+    height: 20px;
+    position: absolute;
+    bottom:0;
+    right: 0;
+  }
+  
+  .content__box__content{
+    line-height: 100px;
+    font-size: 25px;
+    margin-left:100px ;
+    color: #fff;
+    line-height: 50px;
+    width: 65%;
+  }
+
+}
+
+@media(max-width: 520px) {
+  .home{
+    color:  gray;
+    width: 70px;
+  }
+  .home__btn {
+    font-size: 12px;
+  }
+  .btn{
+    width: 70px;
+    font-size: 12px;
+  }
+  .link{
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+  }
+  .link__btn{
+    width: 250px;
+  }
+  .header  ul{
+    margin-right: 5px;
+    justify-content: flex-end;
+  }
+  .home__btn{
+    margin-left: 5px;
+    text-align: left;
+  }
+  .home{
+    text-align: center;
+  }
+
+
+  .content__box__title{
+    height: 400px;
+  }
+
+  .content__box__title a{
+    display: inline-block;
+    width: 100%;
+    height: 400px;
+    display: block;
+    position: relative;
+
+  }
+
+  .content__box__content{
+    line-height: 50px;
+    font-size: 15px;
+    margin-left:0px ;
+  }
+
+  .content__box__img{
+    text-align: left;
+    width: 100%;
+    text-align: center;
+
+  }
+  
+  .content__box__img img{
+    min-width:200px; 
+    min-height:200px;
+  }
+
+
+
+
+}
 
