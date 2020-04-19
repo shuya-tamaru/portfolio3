@@ -22,7 +22,7 @@
 </br>
 [![Screenshot from Gyazo](https://gyazo.com/42ebe2d0272bb9eb995d4ab0cd6c53a5/raw)](https://gyazo.com/42ebe2d0272bb9eb995d4ab0cd6c53a5)
 </br>
-<img width="1439" alt="48499627090b734352bf22063a813b4a" src="https://user-images.githubusercontent.com/57956439/79683203-5654e980-8263-11ea-94ec-33668d3ea4e8.png">
+<img width="1439" alt="48499627090b734352bf22063a813b4a" src="https://i.gyazo.com/7ba7158e02309306d1acca3e5bd50166.jpg">
 </br>
 [![Screenshot from Gyazo](https://gyazo.com/e357343f8ffa06fbdadf7876becd905c/raw)](https://gyazo.com/e357343f8ffa06fbdadf7876becd905c)
 </br>
