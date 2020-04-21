@@ -86,7 +86,7 @@ body {
 
 .contents {
   width: 100%;
-  height: calc(100%- 70px);
+  height: 100% ;
   background-color: rgb(250,244,213,.5);
   background-image: url("60-lines.png");
 }
@@ -194,7 +194,7 @@ body {
 
 
 .middle-content{
-  height: 400px;
+  height: 470px;
   width: 100%;
   display: flex;
 }
