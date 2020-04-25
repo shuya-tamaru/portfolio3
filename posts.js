@@ -1,6 +1,3 @@
-//jQueryのライブラリの読み込み
-{/* <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> */}
-
 $(window).on('load', ()=> {
 
   $(".preview").hide()
