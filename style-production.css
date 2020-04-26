@@ -151,6 +151,14 @@ body {
   cursor: pointer;
 }
 
+#img5{
+  width: 100%;
+  background-color: #E7E6E4;
+  text-align: center;
+  padding:10px 10px 10px 10px;
+  position: relative;
+}
+
 #img6{
   width: 100%;
   background-color: #E7E6E4;
