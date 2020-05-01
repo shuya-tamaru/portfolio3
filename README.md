@@ -9,7 +9,6 @@
 <img src="https://user-images.githubusercontent.com/39142850/71774768-d064a980-2fb7-11ea-88ad-4562c59470ae.png" height="65px;" />
 <a>　</a>
 
-
 ## 概要
 ポートフォリオサイトを作成しました。
 特に難しいことはしてませんが、ページごとに色んなデザインを試してみました。
@@ -20,9 +19,8 @@
 
 [![Screenshot from Gyazo](https://gyazo.com/9a112845c77256969d9c90e7e380006a/raw)](https://gyazo.com/9a112845c77256969d9c90e7e380006a)
 </br>
-[![Screenshot from Gyazo](https://gyazo.com/42ebe2d0272bb9eb995d4ab0cd6c53a5/raw)](https://gyazo.com/42ebe2d0272bb9eb995d4ab0cd6c53a5)
+![profile](https://user-images.githubusercontent.com/57956439/80790681-791fc000-8bca-11ea-99af-3f5463e1fc0c.jpg)
 </br>
-<img width="1439" alt="48499627090b734352bf22063a813b4a" src="https://i.gyazo.com/7ba7158e02309306d1acca3e5bd50166.jpg">
+![productions](https://user-images.githubusercontent.com/57956439/80790799-b84e1100-8bca-11ea-8589-8e9c5691c19c.jpg)
 </br>
-[![Screenshot from Gyazo](https://gyazo.com/e357343f8ffa06fbdadf7876becd905c/raw)](https://gyazo.com/e357343f8ffa06fbdadf7876becd905c)
-</br>
+<img width="1439" alt="blog" src="https://user-images.githubusercontent.com/57956439/80790892-019e6080-8bcb-11ea-9e82-763deda3d617.png">
