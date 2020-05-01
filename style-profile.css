@@ -263,7 +263,7 @@ body {
   color: #064152;
   font-size: 30px;
   font-weight: bold;
-  padding-top: 20px;
+  padding-top: 0px;
   padding-left: 20px;
   position: relative;
 }
@@ -303,6 +303,11 @@ body {
     left:0px;
     border-radius:0 0 0 0 ;
   }
+  .skills {
+    padding-top: 10px;
+
+  }
+
 
   .skills__language{
     font-family: 'Anton', sans-serif;;
@@ -431,6 +436,11 @@ body {
     padding-top: 10px;
     padding-left: 30px;
     font-size: 4vw;
+  }
+
+  .skills {
+    padding-top: 25px;
+
   }
 
   .skills__language{
